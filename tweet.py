@@ -12,10 +12,10 @@ import sqlite3
 import json
 #import simplejson
 #Variables that contains the user credentials to access Twitter API 
-access_token = "3161940045-X4UXjigGRUSpBzoZt5cxDu1Dm6HiQOGGD6uKrRK"
-access_token_secret ="POYCzk2hzjNBktcbyxH6s9vesQrDgwixJtvHufJ8HsgeA"
-consumer_key = "vWI2PWxgJPEwmW72SyBQY06uh"
-consumer_secret = "ab4XsJbncDUZrhpeHzYyfR0cDNTQK9dMXc8VTi163GXnCQSD6I"
+access_token = "XXX"
+access_token_secret ="XXX"
+consumer_key = "XXX"
+consumer_secret = "XXX"
 
 # access_token = "132657561-rWYbNgPmugQjuWYMmoP86NEgOBdn6O39ZUtEo04T"
 # access_token_secret ="V61mtQL76GpGaey3ancZSalReNrp8augBa0m2BNsATL8I"

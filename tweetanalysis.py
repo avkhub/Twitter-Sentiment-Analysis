@@ -24,7 +24,7 @@ cursor = db.cursor()
 
 
 serializer = semantria.JsonSerializer()
-session = semantria.Session("e1eef79b-f58f-4e79-830c-9203ae09a473", "4a2891a0-2df0-4672-b3e9-5392f2b07256", serializer, use_compression=True)
+session = semantria.Session("xxx", "xxx", serializer, use_compression=True)
 geolocator = Nominatim()
 
 
